@@ -1,0 +1,70 @@
+Job Title: Junior Data Scientist / Frontend Developer
+
+Location: Switzerland (Hybrid/Remote options)
+Workload: 80–100%
+
+About the Role
+
+We are looking for a motivated Junior Data Scientist / Frontend Developer to join our growing team. You will work on projects at the intersection of machine learning, natural language processing, and frontend web applications, contributing to the design and deployment of intelligent data-driven solutions. This position is ideal for someone with a strong academic background in Computer Science, hands-on internship experience in AI, and a passion for building applications that combine data insights with user-friendly interfaces.
+
+Responsibilities
+
+Data Science & AI
+
+Develop and deploy ML models for classification, anomaly detection, and natural language processing.
+
+Preprocess, analyze, and visualize datasets to extract actionable insights.
+
+Build and maintain scalable pipelines for experimentation and testing.
+
+Frontend Development
+
+Implement responsive UIs using React, Next.js, TypeScript, MUI, and Chakra UI.
+
+Integrate frontend applications with APIs and backend services.
+
+Ensure applications are reliable, maintainable, and user-friendly.
+
+Collaboration & Best Practices
+
+Work in interdisciplinary teams, contribute to project planning and documentation.
+
+Apply software engineering practices (version control, testing, CI/CD).
+
+Communicate results and progress clearly to technical and non-technical stakeholders.
+
+Qualifications
+
+Master’s degree in Computer Science (specialization in Data Science) from Swiss universities.
+
+1 year of professional experience as an AI Developer (internship) plus several academic projects.
+
+Technical skills:
+
+Python (pandas, scikit-learn, PyTorch, TensorFlow, NLP libraries).
+
+Frontend development with React, Next.js, TypeScript, MUI, Chakra UI.
+
+Experience with API integration, SQL, and Git.
+
+Experience deploying applications on Swiss-based cloud/servers for data compliance.
+
+Good working knowledge of English; additional knowledge of French (FIDE B1).
+
+Nice to Have
+
+Exposure to AWS, GCP, or other cloud platforms.
+
+Interest in UI/UX design.
+
+Academic writing experience (e.g., co-authoring AI-related publications).
+
+What We Offer
+
+A dynamic environment combining AI research and software development.
+
+Opportunity to work on real-world projects with measurable impact.
+
+Flexible workload (80–100%).
+
+Growth opportunities in both Data Science and Frontend Engineering tracks.
