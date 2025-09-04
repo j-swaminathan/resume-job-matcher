@@ -79,6 +79,8 @@ def calculate_match_score(resume_text: str, job_text: str) -> float:
     score = similarity[0][0] * 100  # convert to %
     return round(score, 2)
 
+
+
 if __name__ =="__main__":
     text =extract_text("Resume_JS.pdf")
     # print("resume text", text)
@@ -89,7 +91,9 @@ if __name__ =="__main__":
     score = calculate_match_score(cleaned_cv,cleaned_desc)
 
     keywords = get_top_keywords(cleaned_cv, cleaned_desc)
-
+    score_embed = embedding_match(cleaned_cv,cleaned_desc) 
     
     print(f"Match Score: {score}%")
     print("Top Overlapping Keywords:", keywords)
+
+    print(f"Match Score embed: {score_embed}%")

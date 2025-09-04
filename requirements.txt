@@ -1,4 +1,0 @@
-PyPDF2
-scikit-learn
-nltk
-pandas
